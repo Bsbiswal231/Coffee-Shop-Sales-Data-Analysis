@@ -55,3 +55,35 @@ This project analyzes Coffee Shop Sales Data using Power BI and SQL to uncover k
    - Implement tooltips to display detailed metrics (Sales, Orders, Quantity) when hovering over a specific day-hour.
 
 SQL Queries : <a href="https://github.com/Bsbiswal231/Coffee-Shop-Sales-Data-Analysis/blob/main/SQL%20Queries.pdf"> SQL Queries </a>
+
+### Process:
+
+#### 1. Data Collection: 🠺
+- Imported the Coffee Shop Sales dataset in Excel format (.xlsx).
+- Reviewed columns such as transaction date, transaction time, store location, product category, product type, unit price, and quantity sold to understand data structure and   key relationships.
+#### 2. Data Cleaning: 🠺
+- Removed duplicate and missing records to maintain data accuracy.
+- Corrected inconsistent spellings in product and store names.
+- Formatted columns for proper data types (dates, times, numeric values).
+- Ensured consistency in categorical data such as product categories and store locations.
+#### 3. Data Preparation: 🠺
+- Created calculated columns using Power Query and SQL for analysis — including Month, Day, and Hour.
+- Aggregated data by time period, product, and location to support trend analysis.
+- Structured the dataset for import into Power BI and optimized it for fast processing.
+#### 4. Data Analysis: 🠺
+- Performed detailed analysis using SQL queries and Power BI measures:
+- Total Sales, Total Orders, and Total Quantity Sold
+- Month-over-Month (MoM) growth calculations
+- Sales by store location, product category, and product type
+- Weekday vs. Weekend performance
+- Hourly sales pattern analysis
+#### 5. Dashboard Development: 🠺
+- Designed an interactive Power BI dashboard with a clean, business-style layout.
+- Added KPIs for Total Sales, Orders, and Quantity Sold.
+- Used visuals like Calendar Heatmap, Bar/Line Charts, and Donut Charts.
+- Enabled slicers for Month, Store Location, and Product Category to make the dashboard dynamic and user-friendly.
+#### 6. Insights Generation: 🠺
+- Identified peak sales hours (8 AM – 12 PM) indicating the morning coffee rush.
+- Found that weekend sales outperform weekdays due to higher customer traffic.
+- Highlighted top-performing stores and products driving maximum revenue.
+- Recognized underperforming categories for targeted improvement.
