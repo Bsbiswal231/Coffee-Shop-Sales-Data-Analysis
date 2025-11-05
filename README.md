@@ -4,7 +4,7 @@
 
 - This project analyzes Coffee Shop Sales Data using Power BI and SQL to uncover key insights into sales performance, customer behavior, and product demand. It explores trends across months, weekdays, and hours, comparing store locations and product categories. The analysis helps identify top-performing products, peak sales periods, and underperforming stores, supporting data-driven decisions to boost overall business performance.
 
-### Datast Used:
+### Dataset Used:
 
 <a href="https://github.com/Bsbiswal231/Coffee-Shop-Sales-Data-Analysis/blob/main/Coffee%20Shop%20Sales.xlsx"> Coffee Shop Sales Data </a>
 
