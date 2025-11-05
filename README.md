@@ -90,3 +90,6 @@ SQL Queries : <a href="https://github.com/Bsbiswal231/Coffee-Shop-Sales-Data-Ana
 
 ### Dashboard:
 <img width="1449" height="756" alt="Dashboard" src="https://github.com/user-attachments/assets/809dc870-4811-408b-ac80-5655054017a9" />
+
+### Final Conclusion: 🠺
+- The Coffee Shop Sales Analysis effectively converted raw sales data into clear business insights using SQL and Power BI. It identified top-performing stores, best-selling products, and peak sales hours, showing that weekends and mornings drive the most revenue. The dashboard enables data-driven decisions to improve sales performance and profitability.
