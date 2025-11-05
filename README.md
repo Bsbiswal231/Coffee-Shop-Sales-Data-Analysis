@@ -53,3 +53,5 @@ This project analyzes Coffee Shop Sales Data using Power BI and SQL to uncover k
  7. Sales Analysis by Days and Hours:-
    - Utilize a heat map to visualize sales patterns by days and hours.
    - Implement tooltips to display detailed metrics (Sales, Orders, Quantity) when hovering over a specific day-hour.
+
+SQL Queries : <a href="https://github.com/Bsbiswal231/Coffee-Shop-Sales-Data-Analysis/blob/main/SQL%20Queries.pdf"> SQL Queries </a>
