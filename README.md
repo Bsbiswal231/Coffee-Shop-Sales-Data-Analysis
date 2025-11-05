@@ -87,3 +87,6 @@ SQL Queries : <a href="https://github.com/Bsbiswal231/Coffee-Shop-Sales-Data-Ana
 - Found that weekend sales outperform weekdays due to higher customer traffic.
 - Highlighted top-performing stores and products driving maximum revenue.
 - Recognized underperforming categories for targeted improvement.
+
+### Dashboard:
+<img width="1449" height="756" alt="Dashboard" src="https://github.com/user-attachments/assets/809dc870-4811-408b-ac80-5655054017a9" />
