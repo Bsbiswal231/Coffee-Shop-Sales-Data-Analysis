@@ -1,8 +1,8 @@
-# Coffee Shop Sales Dashboard (Sql & PowerBI Project)
+# Coffee Shop Sales Dashboard (Sql & PowerBI Project).
 
 ### Project Overview:
 
-This project analyzes Coffee Shop Sales Data using Power BI and SQL to uncover key insights into sales performance, customer behavior, and product demand. It explores trends across months, weekdays, and hours, comparing store locations and product categories. The analysis helps identify top-performing products, peak sales periods, and underperforming stores, supporting data-driven decisions to boost overall business performance.
+- This project analyzes Coffee Shop Sales Data using Power BI and SQL to uncover key insights into sales performance, customer behavior, and product demand. It explores trends across months, weekdays, and hours, comparing store locations and product categories. The analysis helps identify top-performing products, peak sales periods, and underperforming stores, supporting data-driven decisions to boost overall business performance.
 
 ### Datast Used:
 
